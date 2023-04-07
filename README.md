@@ -15,7 +15,7 @@ This application is used to create a random, strong and unique password to add e
 
 The following snippet shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to generate a random password.](./Assets/pwgenerator.png)
+![The Password Generator application displays a red button to generate a random password.](./pwgenerator.png)
 
 ## License
 
