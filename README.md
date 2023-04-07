@@ -2,7 +2,7 @@
 
 ## Description
 
-The purpose of this application is when the "Generate Password" button is clicked, the user is prompted to enter & confirm desired password criteria.</br>
+The purpose of this application is when the webpage loads and the "Generate Password" button is clicked, the user is prompted to enter & confirm desired password criteria.</br>
 Passwords must be between 8-128 characters long.</br>
 After user chooses desired criteria, the random password is generated and displayed on the screen.</br>
 The generated password will have met all of the user's selected criteria.</br>
