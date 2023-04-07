@@ -9,7 +9,7 @@ The purpose of this application is when the webpage loads and the "Generate Pass
 This application is used to create a random, strong and unique password to add extra security for online accounts and to protect sensitive and personal information from being accessed by unauthorized users.
 
 ## Deployed Application
-<a href="https://techmack92.github.io/random-password-generator/">***Random Password Generator.***</a></br>
+<a href="https://techmack92.github.io/random-password-generator/" target="_blank">***Random Password Generator.***</a></br>
 
 ## Technologies Used
 HTML, CSS, JavaScript
