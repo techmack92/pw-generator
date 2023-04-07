@@ -5,7 +5,7 @@
 The purpose of this application is when the webpage loads and the "Generate Password" button is clicked, the user is prompted to enter & confirm desired password criteria.</br>
 Passwords must be between 8-128 characters long.</br>
 After user chooses desired criteria, the random password is generated and displayed on the screen & will have met all of the user's selected criteria.</br>
-The link to the live application is  <a href="https://techmack92.github.io/random-password-generator/" style="color:red">***HERE.***</font></a></br>
+The link to the live application is  <a href="https://techmack92.github.io/random-password-generator/" style="color:red">***HERE.***</a></br>
 
 ## Usage
 
